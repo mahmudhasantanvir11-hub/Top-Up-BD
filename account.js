@@ -6,12 +6,12 @@ var website_name = "Top Up BD";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/trftopupbd";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/trftopupbd";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
